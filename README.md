@@ -1,5 +1,7 @@
 # website-docs
 
+## TLDR of below: WE NEED TRANSLATORS TO TRANSLATE OUR DOCS FROM ENGLISH TO OTHER LANGUAGES. Instructions on how to contribute are below, if you don't know how to make pull requests, though.
+
 A repository containing the documentation available at the Ripple website on https://shibui.pw/doc. This is made mainly for translation purposes. Typo fixes are welcome even if you're not part of the translation team.
 
 ## How to create new files
